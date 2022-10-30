@@ -520,6 +520,4 @@ void Vector<T>::insert_max_heap(T element) {
     Sift_Down_max(0);
 }
 
-int main() {
-    //Vector<int> a();
-}
+
